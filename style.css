@@ -1,0 +1,78 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+	font-family: 'Lato', sans-serif;
+}
+
+.logo {
+	width: 60px;
+}
+
+.header {
+	text-align: center;	
+/*		border: 1px solid red;	*/
+}
+
+.name {
+	margin-top: 20px;
+	font-size: 3em;
+	font-weight:700;
+	text-transform: uppercase;
+}
+
+.oblique {
+	font-size: 2.5em;
+	font-weight:300;
+	font-style: oblique;
+	text-transform: uppercase;
+}
+
+.middle {
+	width: 80%;
+	border: 1px green solid;
+	margin: 0 auto;
+}
+
+.rightside {
+	font-weight:300;
+	line-height: 1.8em;
+	width: 55%;
+	margin: 0 auto;
+	font-size: 1.1em;
+}
+
+
+.italics {
+	font-style:oblique;
+	font-weight:300;
+	font-size: 1.2em;
+}
+
+.main {
+	top: 15%;
+	margin: 0 auto;
+	width: 100%;
+	position: relative;
+	height: 80%;
+}
+
+
+.bold {
+	font-weight:700;
+	text-align:right;	
+
+}
+
+.center {
+/*	border: 1px solid red;*/
+	margin-left: 215px;
+	width: 500px;
+}
+
+a {
+	color: #000;	
+}
+
+a:hover {
+	color: #11AAEE;
+	text-decoration:none;
